@@ -1,0 +1,7 @@
+.loading {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 35%;
+  left: 40%;
+}
